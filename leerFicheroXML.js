@@ -14,4 +14,4 @@ function CargarFichero()
 	loadDocA("libros.xml","xml")
 	
 }
-	setInterval(CargarFichero,500000);
+	setInterval(CargarFichero, 3000);

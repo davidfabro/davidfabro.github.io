@@ -4,7 +4,8 @@ function gestionarFicheroXML(xmlDoc){
 	for(let i=0; i<libros.length; i++)
 		if (i == 2)
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='seleccionado'>" + libros[i].textContent + "</p>"
-		
+	if (i != 2)
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='borde'>" + libros[i].textContent + "</p>"
 	
 }
 

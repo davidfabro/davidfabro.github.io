@@ -1,9 +1,11 @@
-.seleccionado
+.par
 {
-    background-color: coral;
+    text-align: end;
+    background-color: chartreuse;
 }
 
-.borde
+.impar
 {
-    border: solid 1px black;
+    text-align: start;
+    background-color: burlywood;
 }

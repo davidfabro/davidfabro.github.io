@@ -9,5 +9,9 @@ function gestionarFicheroXML(xmlDoc){
 	
 }
 
-
-	loadDocA("libros.xml","xml");
+function CargarFichero()
+{
+	loadDocA("libros.xml","xml")
+	
+}
+	setInterval(CargarFichero),2000;

@@ -1,6 +1,6 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
-	let libros = xmlDoc.querySelectorAll("mensaje")
+	let mensajes = xmlDoc.querySelectorAll("mensaje")
 	for(let i=0; i<mensajes.length; i++)
 		if (i % 2 == 0)
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='par'>" + mensajes[i].textContent + "</p>"

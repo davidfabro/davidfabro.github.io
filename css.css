@@ -2,10 +2,12 @@
 {
     text-align: end;
     background-color: chartreuse;
+    margin: auto;
 }
 
 .impar
 {
     text-align: start;
     background-color: burlywood;
+    margin: auto;
 }

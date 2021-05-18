@@ -13,4 +13,4 @@ function CargarFichero()
 	loadDocA("mensajes.xml","xml")
 	
 }
-	setInterval(CargarFichero, 3000);
+	setInterval(CargarFichero, 5000);

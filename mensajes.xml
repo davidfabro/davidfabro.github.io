@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<mensajes>
 <mensaje>
 Hola
 </mensaje>
@@ -16,4 +17,4 @@ Vale, sin problema
 <mensaje>
 Adiós
 </mensaje>
-
+</mensajes>

@@ -1,7 +1,6 @@
 .par
 {
     background-color: #FFB400;
-    display: inline-block;
     padding: .15em .2em;
     line-height: 1em;
 }
@@ -9,7 +8,6 @@
 .impar
 {
    background-color: #FFB400;
-    display: inline-block;
     padding: .15em .2em;
     line-height: 1em;
 }

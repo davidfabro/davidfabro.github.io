@@ -1,13 +1,15 @@
 .par
 {
-    text-align: right;
-    background-color: chartreuse;
-    width: auto;
+    background-color: #FFB400;
+    display: inline-block;
+    padding: .15em .2em;
+    line-height: 1em;
 }
 
 .impar
 {
-    text-align: left;
-    background-color: burlywood;
-    widht: auto;
+   background-color: #FFB400;
+    display: inline-block;
+    padding: .15em .2em;
+    line-height: 1em;
 }

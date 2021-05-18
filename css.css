@@ -1,13 +1,12 @@
 .par
 {
-    background-color: #FFB400;
-    padding: .15em .2em;
-    line-height: 1em;
+    text-decoration-color: yellow;
+    text-align: right;
+    
 }
 
 .impar
 {
-   background-color: #FFB400;
-    padding: .15em .2em;
-    line-height: 1em;
+   text-decoration-color: green;
+   text-align: left;
 }

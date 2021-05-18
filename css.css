@@ -1,12 +1,15 @@
 .par
 {
-    text-decoration-color: yellow;
     text-align: right;
     
 }
 
 .impar
 {
-   text-decoration-color: green;
    text-align: left;
 }
+
+texto
+{
+    background-color: green;
+    

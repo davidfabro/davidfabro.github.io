@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<mensajes>
 <mensaje>
-Hola
-</mensaje>
-<mensaje>
-Hola, ¿Cómo estás?
+  <texto>Hola</texto>
 </mensaje>
 <mensaje>
-Bien como no...
-</mensaje>
-Genial, ya no quiero quedar...
+  <texto>Hola, ¿Cómo estás?</texto>
 </mensaje>
 <mensaje>
-Vale, sin problema
+  <texto>Bien como no...</texto>
 </mensaje>
 <mensaje>
-Adiós
+  <texto>Genial, ya no quiero quedar...</texto>
 </mensaje>
-</mensajes>
+<mensaje>
+  <texto>Vale, sin problema</texto>
+</mensaje>
+<mensaje>
+  <texto>Adiós</texto>
+</mensaje>
+

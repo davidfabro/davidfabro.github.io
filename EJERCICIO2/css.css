@@ -1,13 +1,11 @@
 .par
 {
-    text-align: end;
-    background-color: chartreuse;
-    text-emphasis-color: chartreuse;
+    text-align: right;
+    background-color: green;
 }
 
 .impar
 {
-    text-align: start;
-    text: burlywood;
-    wid
+   text-align: left;
+   background-color: yellow;
 }

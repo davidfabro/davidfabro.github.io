@@ -3,7 +3,7 @@ function gestionarFicheroXML(xmlDoc){
 	let cine = xmlDoc.querySelectorAll("pelicula")
 	for(let i=0; i<cine.length; i++)
 	
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='par'>" + cine[i].textContent + "</p>
+		capaVacia.innerHTML = capaVacia.innerHTML + cine[i].textContent 
 	
 }
 function CargarFichero()

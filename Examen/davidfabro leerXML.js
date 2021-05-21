@@ -8,7 +8,7 @@ function gestionarFicheroXML(xmlDoc){
 }
 function CargarFichero()
 {
-	loadDocA("peliculas.xml","xml")
+	loadDocA("cine.xml","xml")
 	
 }
 	setInterval(CargarFichero, 5000);
